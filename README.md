@@ -32,4 +32,14 @@ basics of python for Ml
     *histogram
     *scatter
     *pieplot
-    
+-->5)seaborn
+*)this librarie is like extension of matplotlib
+   we use here some basic operations
+   *distplot
+   ---specified column data view in graph mode
+   *jointplot
+   ---specified x and y column data show in grapgh mode
+   *catplot
+   ---specified x and y column data show in kind format like strip,violence,box
+   *FacetGrid and map
+   --specified column results comparing to other columns
