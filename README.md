@@ -43,3 +43,12 @@ basics of python for Ml
    ---specified x and y column data show in kind format like strip,violence,box
    *FacetGrid and map
    --specified column results comparing to other columns
+DATA PREPROCESSING
+-->importing related libraries
+-->loading dataset
+-->correcting missing values
+-->encoding catagorial values
+    *independent values
+    *dependent values
+-->splitting dataset to training-set and test set
+-->Feature scaling
