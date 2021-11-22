@@ -1,38 +1,38 @@
 # Flow-Of-DS & MachineLearning
 ## basics of python for Ml
-## 1)numpy intro for tricks
-## 2)pandas
-## 3)scipy
+## 1)Numpy intro for tricks
+## 2)Pandas
+## 3)Scipy
 #### it is a open source library and it is used to manipulate the data
 #### *in this folder i used some operations like how to help,information,source of the ibraries and how to implemention of it
-#### ->integrate
-### ->cluster
-### ->fft
-## -->special opertion
+#### integrate
+### cluster
+### fft
+## special opertion
 #### *kelvin
 #### *xlogy
 #### *trigonometric operation
 #### *exponentials
-#### -->linearalgebra
-#### -->integration
+#### linearalgebra
+#### integration
 ####   single 
 ####   double
-#### -->fft package
-##   -->4)matplotlib
+#### fft package
+##   4)Matplotlib
 #### *ythis librarie is used to visualise the data in gragh modes and style of representation of data
-#### -->sample show of the data plt.splot
-#### -->different function view of the the data x,y label
-#### -->Giving tittles to two labels x and y
-#### -->styles
+#### sample show of the data plt.splot
+#### different function view of the the data x,y label
+#### Giving tittles to two labels x and y
+#### styles
 #### * 'bmh'
 #### * 'classic'
 #### * 'dark_backlground'
-## -->graphs
+## graphs
 #### * bargraph
 #### *histogram
 #### *scatter
 #### *pieplot
-## -->5)seaborn
+## -->5)Seaborn
 #### *)this librarie is like extension of matplotlib
 ## we use here some basic operations
   #### *distplot
