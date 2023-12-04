@@ -1,5 +1,5 @@
 # Flow-Of-DS & MachineLearning
-## basics of python for Ml
+## BASICS OF PYTHON ML
 <pre>
 &#8594; 1)Numpy intro for tricks
 &#8594; 2)Pandas
